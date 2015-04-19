@@ -12,8 +12,8 @@ public class Data {
     };
 
     static String[] alumnos = {
-            "Aula verde\n\nJuan\nPaolo\nLuciana\nIsrael",
-            "Aula amarillo\n\nAngelica\nLucas\nLuis\nJorge",
-            "Aula azul\n\nSebastian\nCynthia\nMatias"
-    };
+        "Aula verde\n\nJuan\nPaolo\nLuciana\nIsrael",
+        "Aula amarillo\n\nAngelica\nLucas\nLuis\nJorge",
+        "Aula azul\n\nSebastian\nCynthia\nMatias"
+};
 }
