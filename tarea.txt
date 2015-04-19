@@ -1,8 +1,0 @@
-header imagen relacionada a la copa america, paises particiapnets o algo
-
-body lista paises participantes
-
-footer fecha inicio y fin
-
-selecciono pais y muestra integrantes de equipo de ese pais
-
