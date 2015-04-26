@@ -19,11 +19,18 @@
             </intent-filter>
         </activity>
 
+        <receiver android:name=".BootReciever">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+
         <provider
             android:authorities="com.cesarcoz.clase.contentproviderdemo.mycontentproviders"
             android:name=".MyContentProvider"></provider>
     </application>
 
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY"></uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
 
 </manifest>
