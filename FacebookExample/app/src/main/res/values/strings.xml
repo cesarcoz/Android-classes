@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">1667636696798418</string>
+    <string name="fb_app_name">La cagué</string>
+</resources>
