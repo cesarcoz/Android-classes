@@ -1,0 +1,4 @@
+find references  Alt+F7
+navigate to declaration  Ctrl+B
+overide methods Ctrl+O
+implement methods of interface  Ctrl+I 

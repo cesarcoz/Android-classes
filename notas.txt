@@ -1,0 +1,9 @@
+leer sobre job scheduler de android 5.0 y como se compara con alert manager 
+
+
+leer sobre el paquete de tools
+
+
+
+spring android para consumir servicios
+
