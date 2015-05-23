@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements AulasFragment.OnAulaSelecc
             alumnosFragment.setArguments(args);
             FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.fragment_container,alumnosFragment);
-            fragmentTransaction.addToBackStack(null);
+            fragmentTransaction.addToBackStack(AulasFragment.class.getName());
             fragmentTransaction.commit();
         }
     }
